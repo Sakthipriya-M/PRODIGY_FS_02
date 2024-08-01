@@ -10,8 +10,8 @@ Ensure the system has proper validation and authentication mechanisms to protect
 PROJECT SETUP:
  Technologies:
 
-   Frontend: HTML, CSS, JavaScript, React (optional)
-   Backend: Node.js with Express, or Django (Python), or ASP.NET (C#)
-   Database: PostgreSQL, MySQL, MongoDB
-   Authentication: JWT (JSON Web Tokens), OAuth, or session-based authentication
+   Frontend: HTML, CSS, JavaScript, React (optional).
+   Backend: Node.js with Express, or Django (Python), or ASP.NET (C#).
+   Database: PostgreSQL, MySQL, MongoDB.
+   Authentication: JWT (JSON Web Tokens), OAuth, or session-based authentication.
    Validation: Libraries like Joi (Node.js), or built-in Django validators.
